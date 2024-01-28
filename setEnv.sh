@@ -1,4 +1,17 @@
-sudo apt update -Y
-sudo apt install openjdk-17-jre-headless -Y
+#!/bin/bash
+sudo apt update -y
+sudo apt install openjdk-17-jre-headless -y
 git clone https://github.com/Abhay-at8/DNS_RP.git
 cd DNS_RP/
+
+
+
+
+#cloud-boothook
+#!/bin/bash
+apt update -y
+apt install openjdk-17-jre-headless -y
+mkdir -p /home/rp/
+cd /home/rp/
+git clone https://github.com/Abhay-at8/DNS_RP.git
+chmod -R 777  /home/rp/
