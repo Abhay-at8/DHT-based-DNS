@@ -46,7 +46,7 @@ cp.rename(columns = {0:'url',1:'reg_IP',2:'reg_time'}, inplace = True)
 res2 = pd.merge(a, cp, on='url')
 print(res2)
 res2.to_csv('comp.csv')
-print(len(res2[0]))
+#print(len(res2[0]))
 
 
 # df=pd.read_csv('comp.csv')

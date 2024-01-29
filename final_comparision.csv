@@ -1,0 +1,8 @@
+,scenario,chord_avg,normal_avg
+0,scenario,chord_avg,normal_avg
+1,scenario,chord_avg,normal_avg
+2,0,1.0,2.0
+3,load_3_servers,988.295,161.444657055
+4,secondtime_3_servers,935.18,117.621889145
+5,load_2_servers,794.395,95.85097913999998
+6,secondTime_2_server,794.11,13.9885895

@@ -1,0 +1,1515 @@
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	yoshi.mega2000.de
+Address: 176.9.38.111
+Name:	yoshi.mega2000.de
+Address: 2a01:4f8:141:2a5::2
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find ivangorod47.ru: NXDOMAIN
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find sas1-2lb9a-eth1.yndx.net: NXDOMAIN
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find asiainboxsurveypark.com: NXDOMAIN
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	lgaerografie.com
+Address: 103.224.212.216
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	zahavi-law.com
+Address: 89.117.169.46
+Name:	zahavi-law.com
+Address: 2a02:4780:27:1071:0:e6d:34f7:2
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find flutemusic.org: NXDOMAIN
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	mayoranne.com
+Address: 3.33.152.147
+Name:	mayoranne.com
+Address: 15.197.142.173
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find best-un-built.net: NXDOMAIN
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find videlabo.com: SERVFAIL
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find musiconfbydjmag.com: NXDOMAIN
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+*** Can't find 97aa8119c29d8c7a32ad9a3f03a94fb8b.cjb.com: No answer
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find 2c3b-2.ad.svcc.edu: NXDOMAIN
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	interview24.de
+Address: 92.204.239.178
+Name:	interview24.de
+Address: 2001:1520:a:b2::
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find app-appetite.com: NXDOMAIN
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find wowqlean.ru: NXDOMAIN
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	360view.show
+Address: 34.240.160.162
+Name:	360view.show
+Address: 2a05:d018:964:c0b:ca65:7773:2dd7:d9bd
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	ametista.netcoro.com.br
+Address: 138.94.135.243
+Name:	ametista.netcoro.com.br
+Address: 2804:2378::3
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	xq1ojr4tzlruykmy.myfritz.net
+Address: 77.21.169.126
+Name:	xq1ojr4tzlruykmy.myfritz.net
+Address: 2a02:8109:0:4:10fd:d00b:e24d:54e9
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find bbqxtra.com: NXDOMAIN
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find ca-ag01-b55.lancs.ac.uk: NXDOMAIN
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find 3988l.com: NXDOMAIN
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+www.thekashmirtravels.com	canonical name = thekashmirtravels.com.
+Name:	thekashmirtravels.com
+Address: 13.248.243.5
+Name:	thekashmirtravels.com
+Address: 76.223.105.230
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	supersafes.co.uk
+Address: 217.160.0.179
+Name:	supersafes.co.uk
+Address: 2001:8d8:100f:f000::200
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find zfront1-rc.yandex.net: NXDOMAIN
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	mouseymars.net
+Address: 45.92.36.181
+Name:	mouseymars.net
+Address: 2a0e:1bc1:161:180:8000::24
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+*** Can't find 2c6d439f4228c29568b5a21f149502ad.cjb.com: No answer
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	tanzschule-dehm.de
+Address: 64.190.63.111
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+amphetamineaddiction.rehab	canonical name = amphetamineadd.wpengine.com.
+Name:	amphetamineadd.wpengine.com
+Address: 35.193.150.205
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	li1415-34.members.linode.com
+Address: 139.162.148.34
+Name:	li1415-34.members.linode.com
+Address: 2a01:7e01::f03c:92ff:fee0:f6db
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find nfrush.stream: NXDOMAIN
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	lb1.berlinonline.net
+Address: 159.69.128.19
+Name:	lb1.berlinonline.net
+Address: 2a01:4f8:fff0:4::19
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find anabra6.com: NXDOMAIN
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	spellingabc.com
+Address: 37.97.254.27
+Name:	spellingabc.com
+Address: 2a01:7c8:3:1337::27
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find qwop.us: NXDOMAIN
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find ns2.dimajahiz.com: NXDOMAIN
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find yong-consulting.com: NXDOMAIN
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find lo0.tor374-435-sea.gq1.yahoo.com: NXDOMAIN
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find 74.80.172.72.ns.smart-dns.net: NXDOMAIN
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	srvw.de
+Address: 85.214.39.242
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find ggy7777.com: NXDOMAIN
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	ofcase.com
+Address: 13.248.169.48
+Name:	ofcase.com
+Address: 76.223.54.146
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	tap.pics
+Address: 3.64.163.50
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	outmail02t.federalreserve.gov
+Address: 132.200.132.76
+Name:	outmail02t.federalreserve.gov
+Address: 2620:0:200:530::46
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	ptr-1c09e82.rev.tuxbox.ie
+Address: 2001:67c::1c0:9e82
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	stantz.ddns.uark.edu
+Address: 10.255.30.10
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	wikicamino.net
+Address: 162.210.196.171
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	www.fitmitbaby.de
+Address: 85.13.163.36
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find waytoocrazy.com: NXDOMAIN
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+*** Can't find f51091eb0448f169d3ad5f5243289c212.cjb.com: No answer
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	ptr-fc9dac.rev.tuxbox.ie
+Address: 2001:67c::fc:9dac
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+*** Can't find e3bb4308732275a1d13ec71df1c13fd17.cjb.com: No answer
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	s501064932.mialojamiento.es
+Address: 217.160.0.225
+Name:	s501064932.mialojamiento.es
+Address: 2001:8d8:100f:f000::2fc
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find jaud-gallery.com: NXDOMAIN
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	sadionor.com
+Address: 194.63.248.52
+Name:	sadionor.com
+Address: 2a01:5b40:0:248::52
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	royal-nyx.com
+Address: 91.203.110.238
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+*** Can't find b407b0a2f038b6d193cc0d8f80d1c9b4b.cjb.com: No answer
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	so-bali.com
+Address: 74.208.236.73
+Name:	so-bali.com
+Address: 2607:f1c0:100f:f000::228
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find hubbard-dist-1-vl623.bowdoin.edu: NXDOMAIN
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find nature-eco-construction.com: NXDOMAIN
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find ladymancrusher.webs.com: NXDOMAIN
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+*** Can't find smart-cabana.com: No answer
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	v150-95-109-232.a00b.g.han1.static.cnode.io
+Address: 150.95.109.232
+Name:	v150-95-109-232.a00b.g.han1.static.cnode.io
+Address: 2404:f080:1101:320:150:95:109:232
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	www.simplyabudhabi.com
+Address: 217.160.0.246
+Name:	www.simplyabudhabi.com
+Address: 2001:8d8:100f:f000::2d5
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	hingstons-antiques.co.uk
+Address: 185.151.30.151
+Name:	hingstons-antiques.co.uk
+Address: 2a07:7800::151
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find studentenkreditkarte.org: NXDOMAIN
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find movemanuvera.com: NXDOMAIN
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+*** Can't find 65fb7e70c7d711a8c35b4f326029ee0b3.cjb.com: No answer
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	jaeger-gemuese.de
+Address: 80.150.6.143
+Name:	jaeger-gemuese.de
+Address: 2003:2:2:15:80:150:6:143
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find donnecoraggiose.com: NXDOMAIN
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	tastyfood.pizza-online.fi
+Address: 104.17.183.113
+Name:	tastyfood.pizza-online.fi
+Address: 104.17.182.113
+Name:	tastyfood.pizza-online.fi
+Address: 2606:4700::6811:b771
+Name:	tastyfood.pizza-online.fi
+Address: 2606:4700::6811:b671
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	td.ergoadvocate.com
+Address: 104.21.4.201
+Name:	td.ergoadvocate.com
+Address: 172.67.132.100
+Name:	td.ergoadvocate.com
+Address: 2606:4700:3034::6815:4c9
+Name:	td.ergoadvocate.com
+Address: 2606:4700:3034::ac43:8464
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find ronddewereld.nu: NXDOMAIN
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find dev-webx64.wpred.com: NXDOMAIN
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	centrum-gmbh.com
+Address: 81.173.194.3
+Name:	centrum-gmbh.com
+Address: 2001:4dd0:100:1f00:80:0:80:1
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find 95name.pw: NXDOMAIN
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	ayway.com
+Address: 217.160.0.135
+Name:	ayway.com
+Address: 2001:8d8:100f:f000::200
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find hizuodian.com: NXDOMAIN
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+majesticflooringoflimerick.com.us1.protection.inumbo.com	canonical name = us1.se1.protection.inumbo.com.
+Name:	us1.se1.protection.inumbo.com
+Address: 46.21.107.175
+Name:	us1.se1.protection.inumbo.com
+Address: 94.247.172.57
+Name:	us1.se1.protection.inumbo.com
+Address: 94.247.172.58
+Name:	us1.se1.protection.inumbo.com
+Address: 46.21.106.111
+Name:	us1.se1.protection.inumbo.com
+Address: 46.21.106.48
+Name:	us1.se1.protection.inumbo.com
+Address: 94.247.172.51
+Name:	us1.se1.protection.inumbo.com
+Address: 2a02:750:1::161:babe
+Name:	us1.se1.protection.inumbo.com
+Address: 2a02:750:7:3305::c1
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	mmd-production.de
+Address: 5.175.14.225
+Name:	mmd-production.de
+Address: 2a01:488:42:1000:50ed:82e1:fffa:f2ab
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find casbipay.com: NXDOMAIN
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+*** Can't find d2v0bbh06rgpc3.cloudfront.net: No answer
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+*** Can't find d0bbc92c30e0ed2f11632ceef4a084a73.cjb.com: No answer
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find www.edmontonpbx.ca: NXDOMAIN
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	enicma.de
+Address: 80.237.133.208
+Name:	enicma.de
+Address: 2a01:488:42:1000:50ed:85d0:12:7d1a
+
+132.254.223.199.in-addr.arpa	name = 199-223-254-132.static.as40244.net.
+
+Authoritative answers can be found from:
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	www.szuping.net
+Address: 69.163.179.25
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find ns4.acaspro.com: NXDOMAIN
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find allpackagingmaterial.com: NXDOMAIN
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+*** Can't find f68be9f20334745140ff253b84029fdda.cjb.com: No answer
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	zahnarzt-forchheim.com
+Address: 80.150.6.143
+Name:	zahnarzt-forchheim.com
+Address: 2003:2:2:15:80:150:6:143
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	meditextinc.com
+Address: 172.67.178.222
+Name:	meditextinc.com
+Address: 104.21.17.240
+Name:	meditextinc.com
+Address: 2606:4700:3037::ac43:b2de
+Name:	meditextinc.com
+Address: 2606:4700:3036::6815:11f0
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find heartlandembrace.com: NXDOMAIN
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	empire-times.com
+Address: 81.169.145.159
+Name:	empire-times.com
+Address: 2a01:238:20a:202:1159::
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find www.carpetpeturineremovalservice.webs.com: NXDOMAIN
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+*** Can't find 937c0c8db6deeddf03000a6f35515e95f.cjb.com: No answer
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find yogyakartainharmony.net: NXDOMAIN
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	oilseals.su
+Address: 5.23.51.104
+Name:	oilseals.su
+Address: 2a03:6f00:6:1::517:3368
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	sme.co.uk
+Address: 172.67.200.88
+Name:	sme.co.uk
+Address: 104.21.21.209
+Name:	sme.co.uk
+Address: 2606:4700:3032::6815:15d1
+Name:	sme.co.uk
+Address: 2606:4700:3030::ac43:c858
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	investcompany.de
+Address: 81.169.145.74
+Name:	investcompany.de
+Address: 2a01:238:20a:202:1074::
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	insecticidascolombia.com
+Address: 172.67.134.86
+Name:	insecticidascolombia.com
+Address: 104.21.25.152
+Name:	insecticidascolombia.com
+Address: 2606:4700:3030::6815:1998
+Name:	insecticidascolombia.com
+Address: 2606:4700:3031::ac43:8656
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find julis.bayern: NXDOMAIN
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find garagebutler.co.za: NXDOMAIN
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find aislz.com: NXDOMAIN
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	www.adultestammzellen.de
+Address: 92.205.55.64
+Name:	www.adultestammzellen.de
+Address: 2a00:1169:103:68a0::
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	s557482670.onlinehome.us
+Address: 74.208.236.42
+Name:	s557482670.onlinehome.us
+Address: 2607:f1c0:100f:f000::25f
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+*** Can't find 52e35442e6b42413f59a2d6e15c6f8c9b.cjb.com: No answer
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	yearbooksaboutyou.com
+Address: 216.239.34.21
+Name:	yearbooksaboutyou.com
+Address: 216.239.38.21
+Name:	yearbooksaboutyou.com
+Address: 216.239.36.21
+Name:	yearbooksaboutyou.com
+Address: 216.239.32.21
+Name:	yearbooksaboutyou.com
+Address: 2001:4860:4802:34::15
+Name:	yearbooksaboutyou.com
+Address: 2001:4860:4802:38::15
+Name:	yearbooksaboutyou.com
+Address: 2001:4860:4802:36::15
+Name:	yearbooksaboutyou.com
+Address: 2001:4860:4802:32::15
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	schmankerlhof-oberwirt.com
+Address: 81.169.145.93
+Name:	schmankerlhof-oberwirt.com
+Address: 2a01:238:20a:202:1093::
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find shinsei-jebelle.work: NXDOMAIN
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	xn--mhlenhoff-07a.de
+Address: 217.160.0.25
+Name:	xn--mhlenhoff-07a.de
+Address: 2001:8d8:100f:f000::28a
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	mrettich.org
+Address: 202.61.227.48
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find chatroomhive.com: NXDOMAIN
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	bmwoftylertx.com
+Address: 216.239.32.21
+Name:	bmwoftylertx.com
+Address: 216.239.36.21
+Name:	bmwoftylertx.com
+Address: 216.239.34.21
+Name:	bmwoftylertx.com
+Address: 216.239.38.21
+Name:	bmwoftylertx.com
+Address: 2001:4860:4802:32::15
+Name:	bmwoftylertx.com
+Address: 2001:4860:4802:34::15
+Name:	bmwoftylertx.com
+Address: 2001:4860:4802:36::15
+Name:	bmwoftylertx.com
+Address: 2001:4860:4802:38::15
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	easypost.co
+Address: 169.62.110.131
+Name:	easypost.co
+Address: 169.62.110.130
+Name:	easypost.co
+Address: 2607:f0d0:2901:7e::3
+Name:	easypost.co
+Address: 2607:f0d0:2901:7e::2
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find neilforillinois.com: NXDOMAIN
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	torus.com.ru
+Address: 37.200.66.197
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	eventio-style.de
+Address: 116.202.102.103
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	geek-mom.de
+Address: 104.21.50.40
+Name:	geek-mom.de
+Address: 172.67.200.186
+Name:	geek-mom.de
+Address: 2606:4700:3037::ac43:c8ba
+Name:	geek-mom.de
+Address: 2606:4700:3034::6815:3228
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	kassel.coach
+Address: 217.160.0.161
+Name:	kassel.coach
+Address: 2001:8d8:100f:f000::2ea
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find plaatjepraatje.org: NXDOMAIN
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	heelsteal.com.au
+Address: 104.21.13.254
+Name:	heelsteal.com.au
+Address: 172.67.133.147
+Name:	heelsteal.com.au
+Address: 2606:4700:3033::6815:dfe
+Name:	heelsteal.com.au
+Address: 2606:4700:3035::ac43:8593
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	dolphinexpresscharters.com
+Address: 104.17.47.43
+Name:	dolphinexpresscharters.com
+Address: 104.17.48.43
+Name:	dolphinexpresscharters.com
+Address: 2606:4700::6811:302b
+Name:	dolphinexpresscharters.com
+Address: 2606:4700::6811:2f2b
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find hohde.net: NXDOMAIN
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	meinweg.blog
+Address: 192.0.78.25
+Name:	meinweg.blog
+Address: 192.0.78.24
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	wardakbd.com
+Address: 95.170.72.87
+Name:	wardakbd.com
+Address: 2a01:7c8:3:1337::27
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	www.keralastate.org.cdn.cloudflare.net
+Address: 104.21.27.53
+Name:	www.keralastate.org.cdn.cloudflare.net
+Address: 172.67.141.116
+Name:	www.keralastate.org.cdn.cloudflare.net
+Address: 2606:4700:3033::ac43:8d74
+Name:	www.keralastate.org.cdn.cloudflare.net
+Address: 2606:4700:3035::6815:1b35
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+www.dakotawomensclinic.com	canonical name = dakotawomensclinic.com.
+Name:	dakotawomensclinic.com
+Address: 50.28.52.26
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find star-light.com.ua: NXDOMAIN
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+bookcheckers.com	canonical name = traff-2.hugedomains.com.
+traff-2.hugedomains.com	canonical name = hdr-nlb5-4e815dd67a14bf7f.elb.us-east-2.amazonaws.com.
+Name:	hdr-nlb5-4e815dd67a14bf7f.elb.us-east-2.amazonaws.com
+Address: 3.130.204.160
+Name:	hdr-nlb5-4e815dd67a14bf7f.elb.us-east-2.amazonaws.com
+Address: 3.130.253.23
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+readwritedesign.com	canonical name = traff-1.hugedomains.com.
+traff-1.hugedomains.com	canonical name = hdr-nlb9-41371129e8304c29.elb.us-east-1.amazonaws.com.
+Name:	hdr-nlb9-41371129e8304c29.elb.us-east-1.amazonaws.com
+Address: 54.209.32.212
+Name:	hdr-nlb9-41371129e8304c29.elb.us-east-1.amazonaws.com
+Address: 52.71.57.184
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	heliyorks.co.uk
+Address: 217.160.0.109
+Name:	heliyorks.co.uk
+Address: 2001:8d8:100f:f000::202
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find coachstore.org: NXDOMAIN
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	sanctuairedalencon.org
+Address: 81.169.145.157
+Name:	sanctuairedalencon.org
+Address: 2a01:238:20a:202:1157::
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	www.franke-campus.com
+Address: 92.205.54.255
+Name:	www.franke-campus.com
+Address: 2a00:1169:103:3e80::
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	rivetflags.org
+Address: 104.21.81.47
+Name:	rivetflags.org
+Address: 172.67.188.45
+Name:	rivetflags.org
+Address: 2606:4700:3030::ac43:bc2d
+Name:	rivetflags.org
+Address: 2606:4700:3034::6815:512f
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find liefsuittilburg.com: NXDOMAIN
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	www.global-connection-webstore.info
+Address: 136.144.242.186
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	das-muenchner-vertrauens-kombinat.online
+Address: 217.160.223.69
+Name:	das-muenchner-vertrauens-kombinat.online
+Address: 2001:8d8:1000:505f:3d12:7833:156e:4017
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+dronemalaga.com	canonical name = traff-5.hugedomains.com.
+traff-5.hugedomains.com	canonical name = hdr-nlb7-aebd5d615260636b.elb.us-east-1.amazonaws.com.
+Name:	hdr-nlb7-aebd5d615260636b.elb.us-east-1.amazonaws.com
+Address: 54.161.222.85
+Name:	hdr-nlb7-aebd5d615260636b.elb.us-east-1.amazonaws.com
+Address: 34.205.242.146
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	mail.websoles.com
+Address: 103.127.146.197
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	stefaniegercke.com
+Address: 92.204.55.169
+Name:	stefaniegercke.com
+Address: 2a00:1158:5:4a9::
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find perfect-girls.date: NXDOMAIN
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	boudoirberlin.com
+Address: 81.169.145.84
+Name:	boudoirberlin.com
+Address: 2a01:238:20a:202:1084::
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	kielce.pios.gov.pl
+Address: 193.25.222.250
+Name:	kielce.pios.gov.pl
+Address: 2a00:d5c0:10:10::1:10
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	www.profseo.net
+Address: 154.37.213.36
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find electricwerx.webs.com: NXDOMAIN
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find izmit.bayaniz.net: NXDOMAIN
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+mailproxy2.frauen-u-unternehmen.de	canonical name = host224.checkdomain.de.
+Name:	host224.checkdomain.de
+Address: 91.203.110.224
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find myfleshyprison.com: NXDOMAIN
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	multi-immobilien.de
+Address: 81.169.145.77
+Name:	multi-immobilien.de
+Address: 2a01:238:20a:202:1077::
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find nailtechnana.com: NXDOMAIN
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	virtuelle-journalistenschule.de
+Address: 81.169.145.152
+Name:	virtuelle-journalistenschule.de
+Address: 2a01:238:20a:202:1152::
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find www.legallpn.com: NXDOMAIN
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find www.7918a.2013.calopad.com: NXDOMAIN
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	vervegym.com
+Address: 81.169.145.92
+Name:	vervegym.com
+Address: 2a01:238:20a:202:1092::
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+ongsocial.com	canonical name = traff-3.hugedomains.com.
+traff-3.hugedomains.com	canonical name = hdr-nlb4-0bbd2e21834cb637.elb.us-east-2.amazonaws.com.
+Name:	hdr-nlb4-0bbd2e21834cb637.elb.us-east-2.amazonaws.com
+Address: 3.18.7.81
+Name:	hdr-nlb4-0bbd2e21834cb637.elb.us-east-2.amazonaws.com
+Address: 3.19.116.195
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	futbolinesybillares.es
+Address: 85.214.27.43
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	difiniti.com
+Address: 192.195.77.147
+Name:	difiniti.com
+Address: 2607:f1c0:1000:6013:669d:b5ae:323e:3018
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find huus-fientjebloem.de: NXDOMAIN
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	esamadvocats.com
+Address: 217.160.0.224
+Name:	esamadvocats.com
+Address: 2001:8d8:100f:f000::2a1
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find mykitchendesignpics.us: NXDOMAIN
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find scantrolley.com: NXDOMAIN
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	astory.info
+Address: 202.233.67.88
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find commercechecker.info: NXDOMAIN
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+*** Can't find f5c0c66f30d321e496b4b3a497ebb0569.cjb.com: No answer
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find kkd269.com: NXDOMAIN
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	battleforthecity.com
+Address: 3.64.163.50
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find develop.immersiv.eu: NXDOMAIN
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find mmcdn.info: NXDOMAIN
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find doudoune70.freeboxos.fr: NXDOMAIN
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	roofingplano.com
+Address: 74.208.236.131
+Name:	roofingplano.com
+Address: 2607:f1c0:100f:f000::279
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+libracpa.com	canonical name = traff-6.hugedomains.com.
+traff-6.hugedomains.com	canonical name = hdr-nlb10-d66bbad0736f8259.elb.us-east-2.amazonaws.com.
+Name:	hdr-nlb10-d66bbad0736f8259.elb.us-east-2.amazonaws.com
+Address: 3.140.13.188
+Name:	hdr-nlb10-d66bbad0736f8259.elb.us-east-2.amazonaws.com
+Address: 18.119.154.66
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	boatingsafety.com
+Address: 35.169.50.49
+Name:	boatingsafety.com
+Address: 35.174.132.21
+Name:	boatingsafety.com
+Address: 35.173.82.140
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	perez.sk
+Address: 217.67.30.58
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+*** Can't find f3ba47edb2f3f32d861bde5f84322998b.cjb.com: No answer
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	mail.ovkaz.nl
+Address: 141.138.168.120
+Name:	mail.ovkaz.nl
+Address: 2a03:3c00:a002:175::100a
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	www.almightywebdesigns.com.cdn.cloudflare.net
+Address: 172.67.134.228
+Name:	www.almightywebdesigns.com.cdn.cloudflare.net
+Address: 104.21.25.236
+Name:	www.almightywebdesigns.com.cdn.cloudflare.net
+Address: 2606:4700:3036::6815:19ec
+Name:	www.almightywebdesigns.com.cdn.cloudflare.net
+Address: 2606:4700:3035::ac43:86e4
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	opera.jaleco.com
+Address: 172.67.73.246
+Name:	opera.jaleco.com
+Address: 104.26.10.57
+Name:	opera.jaleco.com
+Address: 104.26.11.57
+Name:	opera.jaleco.com
+Address: 2606:4700:20::681a:b39
+Name:	opera.jaleco.com
+Address: 2606:4700:20::ac43:49f6
+Name:	opera.jaleco.com
+Address: 2606:4700:20::681a:a39
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	gtbank.ru
+Address: 91.226.31.83
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find golfprosnow.com: NXDOMAIN
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find www.bodytalksalon.webs.com: NXDOMAIN
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	lichtundtonservice-prosigk.de
+Address: 116.202.108.184
+
+;; communications error to 127.0.0.53#53: timed out
+** server can't find 60.83.80.166.in-addr.arpa: SERVFAIL
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find s528859768.onlinehome.us: NXDOMAIN
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	d267t4v22cfopb.cloudfront.net
+Address: 13.226.2.35
+Name:	d267t4v22cfopb.cloudfront.net
+Address: 13.226.2.72
+Name:	d267t4v22cfopb.cloudfront.net
+Address: 13.226.2.113
+Name:	d267t4v22cfopb.cloudfront.net
+Address: 13.226.2.19
+Name:	d267t4v22cfopb.cloudfront.net
+Address: 2600:9000:21f8:1e00:14:78f7:b3c0:93a1
+Name:	d267t4v22cfopb.cloudfront.net
+Address: 2600:9000:21f8:3200:14:78f7:b3c0:93a1
+Name:	d267t4v22cfopb.cloudfront.net
+Address: 2600:9000:21f8:5200:14:78f7:b3c0:93a1
+Name:	d267t4v22cfopb.cloudfront.net
+Address: 2600:9000:21f8:5400:14:78f7:b3c0:93a1
+Name:	d267t4v22cfopb.cloudfront.net
+Address: 2600:9000:21f8:c200:14:78f7:b3c0:93a1
+Name:	d267t4v22cfopb.cloudfront.net
+Address: 2600:9000:21f8:ca00:14:78f7:b3c0:93a1
+Name:	d267t4v22cfopb.cloudfront.net
+Address: 2600:9000:21f8:e000:14:78f7:b3c0:93a1
+Name:	d267t4v22cfopb.cloudfront.net
+Address: 2600:9000:21f8:f200:14:78f7:b3c0:93a1
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	vequaud.com
+Address: 80.237.133.54
+Name:	vequaud.com
+Address: 2a01:488:42:1000:50ed:8536:ff89:44
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find svm37552.vps.tagadab.com: NXDOMAIN
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	designinternicasa.net
+Address: 46.8.8.100
+** server can't find designinternicasa.net: SERVFAIL
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	herbaldistribucion.com
+Address: 82.98.171.78
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	worldofglider.de
+Address: 172.67.136.215
+Name:	worldofglider.de
+Address: 104.21.32.223
+Name:	worldofglider.de
+Address: 2606:4700:3036::6815:20df
+Name:	worldofglider.de
+Address: 2606:4700:3032::ac43:88d7
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	www.optihacks.com
+Address: 185.107.56.192
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find inr-003--inr-004--vlan502.fhrp.berkeley.edu: NXDOMAIN
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find globalsoftwarepartners.com: NXDOMAIN
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	net-vendeur.net
+Address: 217.160.0.152
+Name:	net-vendeur.net
+Address: 2001:8d8:100f:f000::23f
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	www.aviationbusiness.com.au
+Address: 103.224.182.250
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	feijoa.printers.ircam.fr
+Address: 129.102.66.117
+Name:	feijoa.printers.ircam.fr
+Address: 2001:660:3004:64:cacb:b8ff:fe5d:e4b3
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find rf.legalizer.xyz: NXDOMAIN
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find octonode-iva-test1.yndx.net: NXDOMAIN
+
+Wed Jan 24 15:36:56 UTC 2024
+after
+Wed Jan 24 15:37:09 UTC 2024
