@@ -3,7 +3,7 @@ import sys,shutil
 a=pd.read_csv('comp.csv')
 print(sys.argv[1],a['chord_time'].mean(),a['reg_time'].mean())
 colnames=['scenario','chord_avg','normal_avg'] 
-df=pd.read_csv('final_comparision.csv',names=colnames, header=None)
+df=pd.read_csv('final_comparision.csv',names=colnames,header=0)
   
 dic={'scenario':[sys.argv[1]],'chord_avg':[a['chord_time'].mean()],'normal_avg':[a['reg_time'].mean()]}
 df2=pd.DataFrame(dic)
