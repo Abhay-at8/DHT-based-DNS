@@ -43,10 +43,24 @@ a.rename(columns = {0:'url',1:'chord_IP',2:'chord_time'}, inplace = True)
 cp.rename(columns = {0:'url',1:'reg_IP',2:'reg_time'}, inplace = True) 
 
 #print(a)
-res2 = pd.merge(a, cp, on='url')
-print(res2)
-res2.to_csv('comp.csv')
+
+def isPresent(a,b):
+	
+	for i in a.split("_"):
+		if i==b:
+			return 1
+	return 0
+
+
+df = pd.merge(a, cp, on='url')
+print(df)
+df['eq']=''
+for i in range(len(df)):
+	df['eq'][i]=isPresent(str(df['chord_IP'][i]),df['reg_IP'][i])
+df.to_csv('comp.csv')
 #print(len(res2[0]))
+
+print(df['eq'].sum())
 
 
 # df=pd.read_csv('comp.csv')
