@@ -44,7 +44,7 @@ def url_http(prot,domain,i,a):
 
 	try:
 		url="http://"+domain
-		code1=requests.get(url, verify=False,allow_redirects=True,timeout=10).status_code
+		code1=requests.get(url, verify=False,allow_redirects=True,timeout=50).status_code
 		a['code'][i]=code1
 		a['url'][i]=url
 		print(url,i,str(code1))
@@ -67,9 +67,9 @@ for i in range(len(errored)):
 a.rename(columns = {0:'domain'}, inplace = True)
 print(a)
 a.dropna(inplace=True)
-a.reset_index(inplace=True)
+#a.reset_index(inplace=True)
 a.to_csv('result.csv',index=None)
-
+a.reset_index(inplace=True)
 for i in range(len(a['domain'])):
 	ip=str(a['chord_IP'][i]).split('_')[0]
 	if a['code'][i]!='error' and  ip!='null':
@@ -87,4 +87,4 @@ f.close()
 		#if code1==code2:
 		#print(url +" "+str(requests.get(url, verify=False,allow_redirects=True).status_code)+ " https://"+str(a[1][i])+" "+str(requests.get("https://"+a[1][i], verify=False,allow_redirects=True).status_code))
 
-		
+		 
