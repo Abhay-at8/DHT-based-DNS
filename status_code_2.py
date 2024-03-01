@@ -20,13 +20,10 @@ def background(f):
 def url_status_code(url,i,a):
 
 	try:			
-		code1=requests.get(url, verify=False,allow_redirects=True,timeout=10).status_code
+		code1=requests.get(url, verify=False,allow_redirects=True,timeout=50).status_code
 		a['code_chord'][i]=code1
 		#mylongstring.append(domain+" "+a[1][i])
-		if code1==a['code'][i]:
-			a['code_equal'][i]=1
-		else:
-			a['code_equal'][i]=0
+		
 		print(url,i,str(code1))
 		
 	except Exception as e:
@@ -42,7 +39,17 @@ for i in range(len(a['domain'])):
 	url_status_code(a['url'][i],i,a)
 print(errored)
 
-
+for i in range(len(a['domain'])):
+	print(f"{i} Before checking {a['code_equal'][i]}\n")
+	c1=str(a['code_chord'][i])
+	c2=str(a['code'][i])
+	if c1==c2:
+		a['code_equal'][i]=1
+		print(f"Before after chinging {a['code_equal'][i]}\n")
+	else:
+		print(f'not equal {c1} {c2}')
+		print(f"Before after chinging {a['code_equal'][i]}\n")
+		a['code_equal'][i]=0
 
 
 print(a)

@@ -66,6 +66,7 @@ for i in range(len(errored)):
 
 a.rename(columns = {0:'domain'}, inplace = True)
 print(a)
+a.to_csv('result_before_dropping.csv',index=None)
 a.dropna(inplace=True)
 #a.reset_index(inplace=True)
 a.to_csv('result.csv',index=None)
@@ -87,4 +88,4 @@ f.close()
 		#if code1==code2:
 		#print(url +" "+str(requests.get(url, verify=False,allow_redirects=True).status_code)+ " https://"+str(a[1][i])+" "+str(requests.get("https://"+a[1][i], verify=False,allow_redirects=True).status_code))
 
-		 
+		
