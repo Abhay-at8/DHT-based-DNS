@@ -37,9 +37,9 @@ for i in range(len(a[0])):
         
 
 a.drop(3, axis=1, inplace=True)
-cp.drop(3, axis=1, inplace=True)
+cp.drop([3,4], axis=1, inplace=True)
 
-a.rename(columns = {0:'url',1:'chord_IP',2:'chord_time'}, inplace = True) 
+a.rename(columns = {0:'url',1:'chord_IP',2:'chord_time',4:'nanosec'}, inplace = True) 
 cp.rename(columns = {0:'url',1:'reg_IP',2:'reg_time'}, inplace = True) 
 
 #print(a)
@@ -57,7 +57,7 @@ print(df)
 df['eq']=''
 for i in range(len(df)):
 	df['eq'][i]=isPresent(str(df['chord_IP'][i]),df['reg_IP'][i])
-df.to_csv('comp.csv')
+df.to_csv('comparision/comp.csv')
 #print(len(res2[0]))
 
 print(df['eq'].sum())

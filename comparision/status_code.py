@@ -24,7 +24,8 @@ def background(f):
 def url_status_code(prot,domain,i,a):
 
 	try:	
-		url=prot+"://"+domain
+		url=""
+		url=prot+"://"+str(domain)
 		print("The link is "+url)		
 		code1=requests.get(url, verify=False,allow_redirects=True,timeout=10).status_code
 		a['code'][i]=code1
