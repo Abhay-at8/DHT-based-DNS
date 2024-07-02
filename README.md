@@ -1,4 +1,4 @@
-The Java Code base is available at https://github.com/Abhay-at8/DHT-Based-DNS-Java-Codebase.git
+The Java Code base is available at https://github.com/Abhay-at8/DHT-Based-DNS-Java-Codebase.git .
 The jar file created from the above code is used here for deploying
 
 Steps for deploying on AWS and testing/comparison
