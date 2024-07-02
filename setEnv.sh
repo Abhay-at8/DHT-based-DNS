@@ -1,6 +1,4 @@
 
-
-
 #MANNUAL STEPS
 
 #FIRST NODE
@@ -13,6 +11,7 @@ mkdir -p /home/rp/
 cd /home/rp/
 git clone https://github.com/Abhay-at8/DHT-based-DNS.git
 chmod -R 777  /home/rp/
+cd DHT-based-DNS
 bash startServer.sh
 
 
@@ -26,7 +25,7 @@ mkdir -p /home/rp/
 cd /home/rp/
 git clone https://github.com/Abhay-at8/DHT-based-DNS.git
 chmod -R 777  /home/rp/
-cd DNS_RP
+cd DHT-based-DNS
 bash connectChord.sh <IP OF ANY CONNECTED NODE>
 
 ------------------------------------------------------------------------------------------------------------------
@@ -46,4 +45,4 @@ chmod -R 777  /home/rp/
 
 #AWS SYSTEM MANANGER SCRIPT TO RUN COMMAND ON MULTIPLE NODES
 
-cd /home/rp/DNS_RP; nohup bash connectChord.sh "(IP OF ANY CONNECTED NODE)" < /dev/null 2> /dev/null > /dev/null &
+cd /home/rp/DHT-based-DNS; nohup bash connectChord.sh "(IP OF ANY CONNECTED NODE)" < /dev/null 2> /dev/null > /dev/null &
